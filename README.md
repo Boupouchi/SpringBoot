@@ -16,6 +16,12 @@ The lab "Deploying an Application with Spring Boot" introduced me to Spring Boot
 
 ![Screenshot from 2023-11-02 20-04-06](https://github.com/Boupouchi/SpringBoot/assets/81436882/eb1697dc-6db5-42ed-a46c-1cf3fb717114)
 
+# Technologies Used
+* Spring Boot
+* Java EE
+* Hibernate 6
+  
+
 ![Screenshot from 2023-11-02 20-04-55](https://github.com/Boupouchi/SpringBoot/assets/81436882/4117efab-57c8-4aa0-9c0a-ba12e837c811)
 
 ![Screenshot from 2023-11-02 20-05-19](https://github.com/Boupouchi/SpringBoot/assets/81436882/07091553-1aac-4024-857c-866ed12a005b)
